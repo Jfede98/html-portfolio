@@ -1,2 +1,2 @@
 # html-portfolio
-A practice project develop using html
+A practice project develop on html
